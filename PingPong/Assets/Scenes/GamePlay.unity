@@ -229,7 +229,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sharedProfile: {fileID: 11400000, guid: 762276daf9ba4ae4b9d38e0d914538b4, type: 2}
+  sharedProfile: {fileID: 11400000, guid: 9fba92cc22162804ba51cd2b9265e3c8, type: 2}
   isGlobal: 1
   blendDistance: 0
   weight: 1
@@ -462,3 +462,4 @@ MonoBehaviour:
   player: {fileID: 5634777707097732380, guid: e28d27cecd869a448b01c8dc3409317f, type: 3}
   Score: {fileID: 7474353169126499227, guid: bc6e993427cb1a24a87b0c7562c4b054, type: 3}
   Fx: {fileID: 4010250283681496152, guid: 831172eeb6f38b44e98114019ee7c324, type: 3}
+  speedballtxt: {fileID: 0}

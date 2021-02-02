@@ -14,10 +14,8 @@ Pong is one of the first computer games that ever created, this simple "tennis l
 - **`DONE`** Sounds.
 - **`DONE`** Trail Effect.
 - **`DONE`** UI's.
-- **`DONE`** Post-Processing Effects Added (bloom)
-
-## **Observations**
-
+- **`DONE`** Ball spawning after goal.
+- **`DONE`** Post-Processing Effects Added (*bloom*)
 
 
 ### ***Have fun! :stuck_out_tongue_winking_eye:*** 
